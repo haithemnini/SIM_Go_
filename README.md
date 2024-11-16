@@ -7,10 +7,12 @@ Effortlessly activate your Mobilis SIM cards with SIMGo – the ultimate app for
 <img width="1600" alt="App Mockups 18" src="https://github.com/user-attachments/assets/a9845d6b-a5b5-470e-b5a1-17cf5851aad4">
 
 Take a peek at the app in action:
+
 - **ID Card Scanning**
 <img width="1600" alt="App Mockups 22" src="https://github.com/user-attachments/assets/b6115c46-fb1c-4101-9eac-a7d7b8aafee5">
 
-- **SIMGo Acti+ **
+ 
+ - **SIMGo Acti+**
 <img width="1600" alt="App Mockups 6" src="https://github.com/user-attachments/assets/dfca53d3-ac9f-41f8-900c-cf6f94ee0b7e">
 
 ## 🎥 Video
