@@ -12,10 +12,8 @@ Take a peek at the app in action:
 <img width="1600" alt="App Mockups 22" src="https://github.com/user-attachments/assets/b6115c46-fb1c-4101-9eac-a7d7b8aafee5">
 
  
- - **SIMGo Acti+**
+ - **SIMGo Acti+ App**
 <img width="1600" alt="App Mockups 6" src="https://github.com/user-attachments/assets/dfca53d3-ac9f-41f8-900c-cf6f94ee0b7e">
-
-## 🎥 Video
 
 ## 📌 Key Features
 - 🆔 **Automatic ID Scanning:** Accurately scan identity cards with near-zero error rates.
